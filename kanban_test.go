@@ -2,7 +2,7 @@
 package kanban 
 import (
 	
-	"fish/kanban/models"
+	"github.com/fezela/kanban/models"
 	"testing"
 
 
